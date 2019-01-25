@@ -74,10 +74,7 @@
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/revlift-favicon-80x80-1.png",
     "noImageResize": "",
-    "screenshot": "screenshot.png",
-    "publishType": "github",
-    "gitHubName": "JiwooAtGameberry",
-    "gitHubPath": "revlift-website"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
